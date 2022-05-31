@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Scientific notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64911</md:content-id>
+  <md:title>Scientific notation</md:title>
+  <md:abstract/>
+  <md:uuid>37a9ecde-9b4c-45f1-b6fd-eacf476b196e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165513573973">
+      <title>Scientific Notation</title>
+      <para id="id1165522200136"><emphasis>Scientific notation</emphasis>, also known as <emphasis>standard form</emphasis> or as <emphasis>exponential notation</emphasis>, is a way of writing numbers that accommodates values too large or small to be conveniently written in standard decimal notation. Scientific notation has a number of useful properties and is often favored by scientists, mathematicians, and engineers, who work with such numbers.</para><para id="id1165513603487">In scientific notation all numbers are written like this:</para>
+      <equation id="id1165515385744">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mi fontstyle="normal">a</m:mi>
+              <m:mo stretchy="false">×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mi fontstyle="normal">b</m:mi>
+              </m:msup>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">a times 10^{b}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1165516396587">
+        <emphasis effect="underline">("</emphasis>
+        <emphasis effect="italics">a</emphasis>
+        <emphasis effect="underline"> times ten to the power of </emphasis>
+        <emphasis effect="italics">b</emphasis>
+        <emphasis effect="underline">"), where the </emphasis>
+        <emphasis>
+          <emphasis effect="underline">exponent</emphasis>
+        </emphasis>
+        <emphasis effect="underline"/>
+        <emphasis effect="italics">b</emphasis>
+        <emphasis effect="underline"> is an </emphasis>
+        <emphasis>
+          <emphasis effect="underline">integer</emphasis>
+        </emphasis>
+        <emphasis effect="underline">, and the </emphasis>
+        <emphasis>
+          <emphasis effect="underline">coefficient</emphasis>
+        </emphasis>
+        <emphasis effect="underline"/>
+        <emphasis effect="italics">a</emphasis>
+        <emphasis effect="underline"> is any </emphasis>
+        <emphasis>
+          <emphasis effect="underline">real number </emphasis>
+        </emphasis>
+        <emphasis effect="underline">(but see normalized notation below), called the </emphasis>
+        <link url="http://en.wikipedia.org/wiki/Significand">
+          <emphasis effect="italics">significand</emphasis>
+        </link>
+        <emphasis effect="underline"> or </emphasis>
+        <emphasis effect="italics">mantissa</emphasis>
+        <emphasis effect="underline"> (though the term "mantissa" may cause confusion as it can also refer to the </emphasis>
+        <emphasis>
+          <emphasis effect="underline">fractional</emphasis>
+        </emphasis>
+        <emphasis effect="underline"> part of the common </emphasis>
+        <emphasis>
+          <emphasis effect="underline">logarithm</emphasis>
+        </emphasis>
+        <emphasis effect="underline">). If the number is negative then a minus sign precedes </emphasis>
+        <emphasis effect="italics">a</emphasis>
+        <emphasis effect="underline"> (as in ordinary decimal notation).</emphasis>
+      </para>
+      <figure id="id1165520029931">
+        <media id="id1165520029931_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id1165520029931__onlineimage" height="311" width="451"/>
+        </media>
+      </figure>
+      <section id="id1165517604931"><title>What is the use of scientific notation in every day life? </title><para id="id1165516602315">Scientific notation is needed any time you need to express a number that is very big or very small. Suppose for example you wanted to figure out how many drops of water were in a river 12 km long, 270 m wide, and 38 m deep (assuming one drop is one milliliter). It's much more compact and meaningful to write the answer as roughly 
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mn>1.23</m:mn>
+                  <m:mo stretchy="false">×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>14</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0">1.23 times 10^{-14}</m:annotation>
+              </m:semantics>
+            </m:math>
+         than it is to write 123120000000000. For one thing, the scientific notation is easier to read, and makes it much easier to tell at a glance what the order of magnitude is (rather than counting zeros).
+        </para><para id="id1165515944050">For another, most of the digits in 123120000000000 are completely meaningless (unless your measurements were very precise). For instance, if the exact river length were really 12.123123 km (we just measured it to the nearest kilometers), then correct number of drops would be 124383242000000, and after the first three digits our result of 123120000000000 is quite inaccurate. So it's better to use a notation (like scientific notation) in which you can <emphasis>suppress the inaccurate digits</emphasis>.</para></section>
+      <section id="id1165516166973">
+        <title>Converting numbers to scientific notation </title>
+        <para id="id1165513932961">Count the number of places to move the decimal point to the right or left and write the number like this:</para>
+        <para id="id1165507222291">The number 1,350,000,000 can be written as</para>
+        <equation id="id1165515923616"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mn>1.35</m:mn>
+                <m:mo stretchy="false">×</m:mo>
+                <m:msup>
+                  <m:mn>10</m:mn>
+                  <m:mn>9</m:mn>
+                </m:msup>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">1,35 times 10^9</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation><para id="id1165517694350">The number 0.000000000000017 can be written as</para>
+        <equation id="id1165520822459"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mn>1.7</m:mn>
+                <m:mo stretchy="false">×</m:mo>
+                <m:msup>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>14</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">1,7 times 10^{-14}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation></section><section id="eip-245"><title>Calculator Representation of Scientific Numbers</title><para id="eip-207">If we wanted to divide 5 by 20,000,000, the calculator will show</para>
+<para id="fs-idm494782672"><media id="calc_output" alt="Screenshot of calculator showing scientific notation">
+	   
+  <image mime-type="image/png" src="../../media/scientificNotation.png"/>
+		 
+</media></para><para id="eip-439">On this screen, the E in <m:math>
+		<m:apply>
+			<m:times/>
+			<m:cn>2.5</m:cn>
+			<m:ci>E</m:ci>
+			<m:cn>-7</m:cn>			
+		</m:apply>
+</m:math> stands for 
+
+                <m:math><m:msup>
+                  <m:mn>10</m:mn>
+                    <m:mn>-7</m:mn>
+                </m:msup></m:math>.
+The number 
+<m:math>
+                <m:mn>2.5</m:mn>
+                <m:msup>
+                  <m:mi>E</m:mi>
+                  <m:mn>-7</m:mn>
+                </m:msup>
+          </m:math>
+is equivalent to 
+<m:math>
+                <m:mn>2.5</m:mn>
+                 <m:mo stretchy="false">×</m:mo>
+                <m:msup>
+                  <m:mi>10</m:mi>
+                  <m:mn>-7</m:mn>
+                </m:msup>
+          </m:math>.
+
+</para></section>
+      </section><section id="eip-918"><title>Additional Resources</title><para id="eip-258">
+<list id="eip-idm1260551216">
+<item><link url="https://youtu.be/ZC4xALRxkXM" window="new"><emphasis>Youtube</emphasis>: TI Calculator Tutorial: Scientific Notation</link></item>
+<item><link url="https://math.stackexchange.com/questions/6273/what-does-e-mean-in-9-0122222900391e-5" window="new"><emphasis>StackExchange</emphasis>: What does E mean in 9.0122222900391E-5?</link></item>
+</list>
+</para></section>
+  </content>
+</document>

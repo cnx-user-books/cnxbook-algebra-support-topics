@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Geometric Mean</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64910</md:content-id>
+  <md:title>Geometric Mean</md:title>
+  <md:abstract>Calculate geometric means</md:abstract>
+  <md:uuid>47d9cb8f-55de-430e-a885-1430394567b8</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-127"><title>Geometric Mean</title><para id="eip-549">
+Geometric mean is one of the ways to measure the center or the typical value of a data set. If we have two numbers a and b, their geometric mean is simply the square root of their product.
+</para>
+<para id="fs-idm281710496">Geometric mean of <m:math>
+<m:ci> <m:mi>a</m:mi> </m:ci> </m:math> and <m:math>
+<m:ci> <m:mi>c</m:mi> </m:ci> </m:math> = 
+<m:math>
+    <m:msqrt>
+		<m:apply>
+			<m:times/>
+			<m:ci>a</m:ci>
+                        <m:mo>×</m:mo>
+			<m:ci>c</m:ci>
+			
+		</m:apply>
+    </m:msqrt>
+</m:math> .
+</para></section><section id="eip-280"><title>Further Reading</title><list id="eip-155"><title>For detailed explanation, please visit:</title><item><link url="https://www.mathsisfun.com/numbers/geometric-mean.html" window="new"><emphasis>Mathisfun</emphasis>: Geometric Mean</link></item>
+
+<item><link url="https://www.math.toronto.edu/mathnet/questionCorner/arithgeom.html" window="new"><emphasis>UofToronto</emphasis>: Arithmetic and Geometric Sequences</link></item>
+
+<item><link url="http://www.purplemath.com/modules/series3.htm" window="new"><emphasis>PurpleMath</emphasis>: Arithmetic &amp; Geometric Sequences</link></item></list></section></content>
+
+</document>

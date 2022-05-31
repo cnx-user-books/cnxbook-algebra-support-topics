@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Factorials</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64909</md:content-id>
+  <md:title>Factorials</md:title>
+  <md:abstract>Introduction to factorials</md:abstract>
+  <md:uuid>ee987cf9-6e2a-4e7c-986c-3f685176fae9</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-110"><title>Factorials</title>
+<para id="eip-811">
+Given a positive number <m:math>
+<m:ci> <m:mi>n</m:mi> </m:ci> </m:math>, the factorial of <m:math>
+<m:ci> <m:mi>n</m:mi> </m:ci> </m:math> is written as 
+
+<m:math><m:mrow>
+  <m:mi>n</m:mi>
+  <m:mo>!</m:mo>
+ </m:mrow></m:math>. This notation is a shorthand for writing the product of all positive numbers less than or equal to <m:math>
+<m:ci> <m:mi>n</m:mi> </m:ci> </m:math>.
+</para>
+
+<para id="example1">
+For example:<newline/>
+<m:math>
+	<m:apply>
+		<m:eq/>
+
+			<m:mrow>
+				<m:mn>3</m:mn>
+				<m:mo>!</m:mo>
+			</m:mrow>
+
+		<m:apply>
+			<m:times/>
+			<m:cn>3</m:cn>
+                        <m:mo>×</m:mo>
+			<m:cn>2</m:cn>
+                        <m:mo>×</m:mo>
+			<m:cn>1</m:cn>
+			
+		</m:apply>
+	</m:apply>
+</m:math>
+</para>
+<para id="example2">
+<m:math>
+	<m:apply>
+		<m:eq/>
+			<m:mrow>
+				<m:mn>4</m:mn>
+				<m:mo>!</m:mo>
+			</m:mrow>
+		<m:apply>
+			<m:times/>
+			<m:cn>4</m:cn>
+                        <m:mo>×</m:mo>
+			<m:cn>3</m:cn>
+                        <m:mo>×</m:mo>
+			<m:cn>2</m:cn>
+                        <m:mo>×</m:mo>
+			<m:cn>1</m:cn>
+			
+		</m:apply>
+	</m:apply>
+</m:math>
+
+
+</para>
+
+<note id="fs-idm1102853824" type="note">
+By definition, 
+<m:math>
+	<m:apply>
+		<m:eq/>
+			<m:mrow>
+				<m:mn>0</m:mn>
+				<m:mo>!</m:mo>
+			</m:mrow>
+
+			<m:cn>1</m:cn>
+			
+	</m:apply>
+</m:math>
+</note>
+
+</section>
+<section id="eip-886"><title>Further Reading</title><para id="eip-79">For detailed discussion of factorials, please visit  <link url="https://www.mathsisfun.com/numbers/factorial.html" window="new">Mathisfun</link>.
+</para></section>
+</content>
+
+</document>
