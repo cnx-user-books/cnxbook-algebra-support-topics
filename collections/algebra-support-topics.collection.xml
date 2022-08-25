@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ram Subedi">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12237</md:content-id>
     <md:title>Algebra Support Topics</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>55845f49-ea56-4d5a-bfae-0f3a58137ff1</md:uuid>
-<md:slug>algebra-support-topics</md:slug>
-</metadata>
+    <md:slug>algebra-support-topics</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Preliminaries</md:title>
